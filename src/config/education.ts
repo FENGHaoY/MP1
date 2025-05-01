@@ -16,8 +16,8 @@ export type EducationItemType = {
       school: 'Ecust',
       major: 'Computer Science',
       logo: 'college',
-      start: '2030',
-      end: '2026'
+      start: '2026',
+      end: '2030'
     },
     {
       school: 'Ecust',
